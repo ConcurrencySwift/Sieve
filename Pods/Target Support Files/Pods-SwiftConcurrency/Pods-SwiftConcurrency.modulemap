@@ -1,0 +1,6 @@
+framework module Pods_SwiftConcurrency {
+  umbrella header "Pods-SwiftConcurrency-umbrella.h"
+
+  export *
+  module * { export * }
+}
